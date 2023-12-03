@@ -1,12 +1,12 @@
 # maor-public-project
 Public Project for Learning
 
-## just a temp message
+## just a medium message
 dont mind me
 
-### will this be bigger?
+### this is a smaller message
 im not sure
 
 ```
-    how will this look?
+good code
 ```
